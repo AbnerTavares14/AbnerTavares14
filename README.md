@@ -1,4 +1,10 @@
-### Hi there 👋
+# Seja muito bem-vindo(a)!
+
+Olá, meu nome é Abner, sou estudante de Ciência da Computação na Universidade Federal de Mato Grosso e atualmente estou fazendo o curso de desenvolvimento full stack na Driven Education. 
+
+* Atualmente estou aprendendo a parte front-end do desenvolvimento web, como o HTML, CSS e JavaScript. 
+
+
 
 <!--
 **AbnerTavares14/AbnerTavares14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
