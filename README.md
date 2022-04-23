@@ -2,7 +2,7 @@
 
 Olá, meu nome é Abner, sou estudante de Ciência da Computação na Universidade Federal de Mato Grosso e atualmente estou fazendo o curso de desenvolvimento full stack na Driven Education. 
 
-* Atualmente estou aprendendo a parte front-end do desenvolvimento web, como o HTML, CSS e JavaScript. 
+* Atualmente estou iniciando meus estudos no back end, começando em NodeJS. No front end já aprendi e desenvolvi sites com as tecnologias HTML, CSS, Javascript e React. 
 
 
 
