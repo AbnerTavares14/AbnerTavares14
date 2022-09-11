@@ -2,7 +2,7 @@
 
 Olá, meu nome é Abner, sou estudante de Ciência da Computação na Universidade Federal de Mato Grosso e atualmente estou fazendo o curso de desenvolvimento full stack na Driven Education. 
 
-* Atualmente estou iniciando meus estudos no back end, começando em NodeJS. No front end já aprendi e desenvolvi sites com as tecnologias HTML, CSS, Javascript e React. 
+* Nele pude desenvolver diversos projetos para colocar em práticas os aprendizados do curso, como HTML, CSS, JavaScript, React, NodeJS, Prisma, MongoDB, PostgreSQL, docker, CI/CD, deploy na AWS, TypeScript, arquitetura em camadas e boas práticas de programação. Além da base teórica por trás de tudo isso. Os projetos se encontram todos aqui, fique a vontade para dar uma olhada nos meus repositórios 😄
 
 
 
