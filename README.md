@@ -1,6 +1,6 @@
 # Seja muito bem-vindo(a)!
 
-Olá, meu nome é Abner, tenho 22 anos, sou estudante de Ciência da Computação na Universidade Federal de Mato Grosso e desenvolvedor web fullstack junior.
+Olá, meu nome é Abner, tenho 25 anos, sou estudante de Ciência da Computação na Universidade Federal de Mato Grosso e desenvolvedor web fullstack junior.
 
 * Atualmente utilizo as seguintes tecnologias para desenvolver meus projetos: HTML, CSS, JS, React, TypeScript, NodeJS, MongoDB, PostgreSQL, ORM Prisma, Docker, Java, C++, C, Python.
 
