@@ -1,8 +1,23 @@
-# Seja muito bem-vindo(a)!
+### Olá! 👋 Sou Abner, Engenheiro de Software com foco em Backend.
 
-Olá, meu nome é Abner, tenho 25 anos, sou estudante de Ciência da Computação na Universidade Federal de Mato Grosso e desenvolvedor web fullstack junior.
+**Apaixonado por construir APIs RESTful robustas e escaláveis** e por todo o ciclo de vida do desenvolvimento de software.
 
-* Atualmente utilizo as seguintes tecnologias para desenvolver meus projetos: HTML, CSS, JS, React, TypeScript, NodeJS, MongoDB, PostgreSQL, ORM Prisma, Docker, Java, C++, C, Python.
+Minha expertise se concentra em **Backend Development** com as seguintes stacks:
+
+* **Node.js / TypeScript:** Express.js, Nest.js, Prisma, TypeORM, Jest, Supertest
+* **Python:** FastAPI, Flask, SQLAlchemy, Pytest, Unittest
+* **Java 8+:** Spring Boot, Hibernate, JPA, JUnit, Mockito
+
+Também tenho forte conhecimento em **bancos de dados (PostgreSQL, MongoDB, Redis)** e **práticas de DevOps**, incluindo **Docker, CI/CD (GitHub Actions), AWS (EC2, S3) e Nginx**.
+
+Como **Engenheiro de Software**, aplico **boas práticas de código (SOLID, DRY, KISS, YAGNI)** e **Design Patterns** para garantir soluções de alta qualidade. Embora meu foco seja Backend, possuo experiência **Fullstack com React.js** e testes End-to-End com Cypress, o que me confere uma visão completa sobre as aplicações.
+
+Fique à vontade para explorar meus projetos e contribuições!
+
+---
+
+**Conecte-se comigo:**
+https://linkedin.com/in/abner-tavares
 
 
 
