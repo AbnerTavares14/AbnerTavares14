@@ -8,7 +8,7 @@ Minha expertise se concentra em **Backend Development** com as seguintes stacks:
 * **Python:** FastAPI, Flask, SQLAlchemy, Pytest, Unittest
 * **Java 8+:** Spring Boot, Hibernate, JPA, JUnit, Mockito
 
-Também tenho forte conhecimento em **bancos de dados (PostgreSQL, MongoDB, Redis)** e **práticas de DevOps**, incluindo **Docker, CI/CD (GitHub Actions), AWS (EC2, S3) e Nginx**.
+Também tenho forte conhecimento em **bancos de dados (PostgreSQL, MongoDB, Redis)** e **práticas de DevOps**, incluindo **Docker, CI/CD (GitHub Actions), AWS (EC2, S3, Lambda) e Nginx**.
 
 Como **Engenheiro de Software**, aplico **boas práticas de código (SOLID, DRY, KISS, YAGNI)** e **Design Patterns** para garantir soluções de alta qualidade. Embora meu foco seja Backend, possuo experiência **Fullstack com React.js** e testes End-to-End com Cypress, o que me confere uma visão completa sobre as aplicações.
 
